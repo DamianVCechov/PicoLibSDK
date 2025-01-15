@@ -1,3 +1,0 @@
-^YKeyPad Test^0
-
-^WHold C^0 .... quit

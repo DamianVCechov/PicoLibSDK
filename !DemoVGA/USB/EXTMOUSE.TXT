@@ -1,3 +1,0 @@
-^YExtern USB mouse^0
-
-^WC^0 ....... quit

@@ -1,2 +1,0 @@
-Example of using cache hit/access counters, and showing the effect of
-invalidate on cache miss/hit.

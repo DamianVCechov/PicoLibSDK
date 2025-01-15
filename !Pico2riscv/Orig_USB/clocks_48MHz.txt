@@ -1,1 +1,0 @@
-Measure frequency of on-board clocks.

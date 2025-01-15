@@ -1,5 +1,0 @@
-^YBalloons^0
-
-Demo - flying balloons
-
-^WBack^0 .... quit

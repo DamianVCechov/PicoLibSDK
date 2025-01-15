@@ -1,2 +1,0 @@
-Differential serial transmit/receive example
-Need to connect a wire from GPIO2 -> GPIO3

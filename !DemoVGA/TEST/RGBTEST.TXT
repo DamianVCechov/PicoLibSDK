@@ -1,5 +1,0 @@
-^YRGB Test^0
-
-Color test pattern
-
-^WC^0 ....... quit

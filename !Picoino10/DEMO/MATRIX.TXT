@@ -1,5 +1,0 @@
-^YMatrix Rain^0
-
-Demo - matrix code rain
-
-^WBack^0 .... quit

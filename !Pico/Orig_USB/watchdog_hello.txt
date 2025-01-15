@@ -1,1 +1,0 @@
-Set the watchdog timer, and let it expire. Detect the reboot, and halt.

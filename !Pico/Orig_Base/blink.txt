@@ -1,1 +1,0 @@
-Blinking test LED on board with 0.5 second period.

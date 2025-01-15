@@ -1,5 +1,0 @@
-^YHello World^0
-
-Demo - simplest example
-
-^WC^0 ....... quit

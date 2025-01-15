@@ -1,5 +1,0 @@
-^YSpheres^0
-
-Demo - random spheres
-
-^WBack^0 .... quit

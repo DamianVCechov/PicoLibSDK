@@ -1,3 +1,0 @@
-The XIP has some internal hardware that can stream a linear access sequence
-to a DMAable FIFO, while the system is still doing random accesses on flash
-code + data.

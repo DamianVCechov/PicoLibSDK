@@ -1,1 +1,0 @@
-Measure temperature and humidity using DHT sensor.

@@ -1,1 +1,0 @@
-Print events on GPIO 2 (edge fall, edge rise).

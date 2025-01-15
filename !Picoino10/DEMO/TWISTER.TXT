@@ -1,6 +1,0 @@
-^YTwister^0
-
-Demo - twisting textured
-       block
-
-^WBack^0 .... quit

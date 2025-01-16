@@ -1,8 +1,8 @@
-# Project Name
+# PicoLibSDK for Linux 
 
 ## Description
 
-Brief description of the project and its purpose.
+Effort for better integration under the Linux system (debugged under Debian/Ubuntu distributions) PicoLibSDK - Alternative SDK library for Raspberry Pico, RP2040 and RP2350
 
 ## Features
 
